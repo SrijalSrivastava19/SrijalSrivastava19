@@ -1,5 +1,4 @@
-## Hi there 👋
-
+docs: create GitHub profile README
 <!--
 **SrijalSrivastava19/SrijalSrivastava19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
