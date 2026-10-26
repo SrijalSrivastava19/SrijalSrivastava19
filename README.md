@@ -1,15 +1,34 @@
-docs: create GitHub profile README
-<!--
-**SrijalSrivastava19/SrijalSrivastava19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Srijal
 
-Here are some ideas to get you started:
+Full-Stack Developer | AI/ML Enthusiast | BTech CSE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build web applications and AI-powered products,
+and I'm currently exploring Machine Learning,
+Deep Learning and Generative AI.
+
+🚀 Featured Projects
+
+🎬 CineSphere
+🤖 Jarvis
+🎵 Moodify
+
+💻 Tech Stack
+
+C++ | Python | Java | JavaScript | TypeScript
+Next.js | React | Node.js | Express | FastAPI
+MongoDB | MySQL | SQLite
+Machine Learning | LLMs | AI
+
+📚 Currently Learning
+
+Machine Learning
+Deep Learning
+Generative AI
+System Design
+
+🤝 Open to
+
+Freelance projects
+Internships
+Open-source collaboration
+Interesting side projects
