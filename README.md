@@ -4,7 +4,7 @@
 
 I'm a Computer Science student interested in software development, problem-solving, and artificial intelligence.
 
-I enjoy building projects using AI-assisted development (vibe coding), experimenting with technologies, and understanding how applications work behind the scenes.
+I enjoy turning ideas into working applications using AI-assisted development (vibe coding), experimenting with new technologies, and understanding how applications work behind the scenes.
 
 Currently, I'm strengthening my programming fundamentals, practising Data Structures & Algorithms, and exploring Machine Learning.
 
@@ -12,50 +12,116 @@ Currently, I'm strengthening my programming fundamentals, practising Data Struct
 
 ## 🚀 Featured Projects
 
-### 🎬 [CineSphere – Cinema. Community.](https://github.com/SrijalSrivastava19/Cinesphere)
-A movie discovery and community platform featuring movie exploration, user authentication, and personalized watchlists.
+### 🎬 [CineSphere — Cinema. Community.](https://github.com/SrijalSrivastava19/Cinesphere)
 
-### 🤖 Jarvis – Personal AI Voice Assistant
-An AI-powered voice assistant featuring:
-- Speech recognition using Whisper.
-- Text-to-speech using Piper.
-- Conversational AI using Ollama.
-- Weather and news integration.
-- Conversation memory.
+A full-stack movie discovery and community platform designed to bring cinema enthusiasts together.
+
+**Technologies:** React, Tailwind CSS, Framer Motion, Node.js, Express.js, MongoDB, JWT, TMDB API.
+
+#### ✅ Completed Features
+
+- 🔐 User Authentication — Signup, Login and JWT.
+- 🗄️ MongoDB Atlas Database Integration.
+- 🎥 TMDB API Integration.
+- 🔎 Movie Search and Discovery.
+- 🎬 Movie Details and Cast Information.
+- ❤️ Personalized Watchlist.
+- ⭐ Favorites.
+- 👥 Community Posts.
+- 👍 Likes and Comments.
+- 🚨 Spoiler Support.
+- 📝 Community Reviews.
+- ⭐ Movie Ratings (1–10).
+- 🤖 AI-powered Sentiment Analysis (Positive, Neutral, Negative).
+- 📊 Community Sentiment Dashboard.
+- 🔥 Basic Hype Meter.
+- 🔌 Backend APIs using Node.js and Express.js.
+
+#### 🚧 Currently Developing
+
+- Hype Meter 2.0.
+- Dynamic Home Page.
+- Complete User Profile Dashboard.
+- Reviews and Ratings — final polish.
+- Community feed sorting and improvements.
+- Mobile Responsiveness.
+- UI/UX and Animation Improvements.
+- Production Security and Error Handling.
+- Deployment and Custom Domain.
+- Final Testing and Documentation.
+
+**Project Status:** Core Features Completed | Final Development and Deployment in Progress.
+
+**Frontend Contributor:** [2006prachimishra-ship-it](https://github.com/2006prachimishra-ship-it)
+
+---
+
+### 🤖 Jarvis — Personal AI Voice Assistant
+
+An AI-powered personal voice assistant designed to interact through voice commands and conversational AI.
+
+**Technologies:** Python, FastAPI, Ollama, Whisper, Piper TTS, SQLite.
+
+**Implemented Features:**
+- Speech-to-Text using Faster Whisper.
+- Text-to-Speech using Piper.
+- Conversational AI using Ollama (Llama 3.2).
+- Wake Word Detection.
+- Conversation Memory.
+- Weather Integration.
+- News Integration.
+- Intent Routing.
+
+**Future Scope:** Gmail integration and additional voice-controlled functionalities.
+
+---
 
 ### 📊 [Data Analytics & Data Science](https://github.com/SrijalSrivastava19/Data-Analytics)
-A collection of practical data analytics projects covering:
-- Python data pipelines.
-- Web scraping.
-- Data cleaning and preprocessing.
-- Exploratory Data Analysis (EDA).
-- Statistical analysis and visualization.
+
+A collection of practical projects developed through structured learning sprints.
+
+**Sprint 1 — Automated Data Pipeline & Forensic Log Analyzer**
+- JSON and TXT log processing.
+- Object-Oriented Programming.
+- Exception Handling.
+- Error identification and corrupted file handling.
+
+**Sprint 2 — E-Commerce Data Analysis**
+- Web Scraping using BeautifulSoup.
+- Data Cleaning and Preprocessing.
+- Outlier Detection using IQR.
+- Exploratory Data Analysis.
+- Correlation Analysis.
+- Histograms, Boxplots and Heatmaps.
+- Cleaned Dataset Export.
+
+**Technologies:** Python, Pandas, NumPy, BeautifulSoup, Requests, Matplotlib, Seaborn.
 
 ---
 
 ## 🏆 Smart India Hackathon (SIH) Projects
 
-### 🧸 KYROS – Smart Cultural Companion Toy for Children
+### 🧸 KYROS — Smart Cultural Companion Toy for Children
 
 **Role: Contributor**
 
-A smart interactive companion toy designed to support children's emotional and cognitive development while promoting cultural learning.
+An interactive smart companion toy designed to support children's emotional and cognitive development while promoting cultural learning.
 
-**My contribution:** Collaborated on the project and contributed to its development and prototype work.
+**My involvement:** Collaborated with the team on project development and prototype work.
 
 **Repositories:**
-- [KYROS – Prototype Files](https://github.com/SrijalSrivap6x9/KYROS)
-- [KYROS – Smart Companion](https://github.com/SrijalSrivap6x9/kyros-smart-companion)
+- [KYROS Prototype](https://github.com/KananSangal/KYROS)
+- [KYROS Smart Companion](https://github.com/KananSangal/kyros-smart-companion)
 
-### 🛡️ Smart Attendance & Compliance Hub (Project S.A.C.H.)
+### 🛡️ Project S.A.C.H. — Smart Attendance & Compliance Hub
 
 **Role: Collaborator**
 
 A Smart India Hackathon project focused on developing a smart attendance and compliance management solution.
 
-**My contribution:** Worked collaboratively with the team on the project development.
+**My involvement:** Collaborated with the project team on development.
 
-**Repository:** [Project S.A.C.H.](https://github.com/SrijalSrivap6x9/Project-S.A.C.H.)
+**Repository:** [Project S.A.C.H.](https://github.com/KananSangal/Project-S.A.C.H.)
 
 ---
 
@@ -65,47 +131,46 @@ C | C++ | Python
 
 ## 🛠️ Technologies I've Explored
 
-- AI-assisted development (Vibe Coding)
-- React and Next.js
-- JavaScript and TypeScript
-- Node.js and Express.js
-- FastAPI
-- MongoDB, MySQL and SQLite
+- **Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, FastAPI
+- **Databases:** MySQL, MongoDB, SQLite
+- **Development Approach:** AI-assisted development (Vibe Coding)
+- **Tools:** Git, GitHub, Google Colab
 
-*I use AI coding assistants to accelerate development while actively learning to understand, debug, modify, and improve the code.*
+*I use AI coding assistants to accelerate development while actively working on understanding, debugging, modifying, and improving the generated code.*
 
 ---
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms (DSA)
-- Machine Learning
-- Deep Learning
-- Generative AI and Large Language Models (LLMs)
-- Problem-solving and programming fundamentals
+- Data Structures & Algorithms (DSA).
+- Machine Learning.
+- Deep Learning.
+- Generative AI and Large Language Models (LLMs).
+- Problem-solving and programming fundamentals.
 
 ---
 
 ## 🧩 Coding Profiles
 
-- 💻 [GitHub](https://github.com/srijalsrivap6x9)
-- 🧠 [LeetCode](https://leetcode.com/u/Srijalsrivastava19/)
-- 🏅 [Coding Ninjas – Naukri.com](https://www.naukri.com/mnjuser/profile?id=&altresid)
+- 💻 [GitHub](https://github.com/SrijalSrivastava19)
+- 🧠 [LeetCode — Srijalsrivastava19](https://leetcode.com/u/Srijalsrivastava19/)
+- 🏅 [Coding Ninjas — Naukri.com](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
 ---
 
 ## 🤝 Open to
 
-- Internship opportunities
-- Open-source contributions
-- Collaborative projects
-- Freelance opportunities
-- Interesting technical challenges
+- Internship Opportunities.
+- Open-source Contributions.
+- Collaborative Projects.
+- Freelance Opportunities.
+- Interesting Technical Challenges.
 
 ---
 
 ## 📫 Let's Connect and Build!
 
-Always excited to learn, collaborate, experiment with new technologies, and turn ideas into working projects.
+Always excited to learn, collaborate with developers, explore emerging technologies, and turn ideas into working products.
 
 **Keep Learning. Keep Building. Keep Improving.** 🚀
